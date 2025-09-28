@@ -38,10 +38,4 @@ I’m passionate about building impactful digital solutions that blend creativit
 - 🔔 **Distributed Online Auction System** – Built with EJB & JMS on Payara  
 
 
-## 📫 Connect With Me  
-- 🌐 Website: [Drovit](https://drovit.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/pavan-ratnayake/)  
-- 📸 [Instagram](https://www.instagram.com/pavanratnayake/)  
-- 📧 **pavanratnayake@outlook.com**  
-
 ⭐ *"Passionate about blending technology and creativity to build solutions that inspire."*  
