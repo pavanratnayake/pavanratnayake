@@ -2,9 +2,7 @@
 
 💻 **Software Engineering Undergraduate | Creative Technologist | Founder of Drovit**  
 
-I’m passionate about building impactful digital solutions that blend creativity and technology. From **software engineering and UX design** to **digital marketing and media production**, I thrive on turning innovative ideas into reality.  
-
----
+I’m passionate about building impactful digital solutions that blend creativity and technology. From **software engineering and UX design** to **digital marketing and media production**, I thrive on turning innovative ideas into reality.
 
 ## 🚀 About Me  
 - 🎓 Undergraduate in **Software Engineering** at **Birmingham City University**  
