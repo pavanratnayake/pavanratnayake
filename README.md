@@ -1,3 +1,5 @@
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanratnayake&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanratnayake&theme=tokyonight)  
+
 # 👋 Hi, I’m Pavan Ratnayake
 
 💻 **Software Engineering Undergraduate | Creative Technologist | Founder of Drovit**  
@@ -36,15 +38,5 @@ I’m passionate about building impactful digital solutions that blend creativit
 - 🎮 **Game Store Android App** – Firebase-powered app with payments & notifications  
 - 🎵 **Pixzoll (Music Channel)** – Creative music production & YouTube content  
 - 🔔 **Distributed Online Auction System** – Built with EJB & JMS on Payara  
-
-
-## 📊 GitHub Stats  
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanratnayake&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanratnayake&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanratnayake&theme=tokyonight)  
-
 
 ⭐ *"Passionate about blending technology and creativity to build solutions that inspire."*
