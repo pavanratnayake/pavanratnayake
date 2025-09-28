@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pavan  
+# 👋 Hi, I’m Pavan Ratnayake
 
 💻 **Software Engineering Undergraduate | Creative Technologist | Founder of Drovit**  
 
