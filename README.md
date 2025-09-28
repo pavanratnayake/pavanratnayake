@@ -4,6 +4,7 @@
 
 I’m passionate about building impactful digital solutions that blend creativity and technology. From **software engineering and UX design** to **digital marketing and media production**, I thrive on turning innovative ideas into reality.
 
+
 ## 🚀 About Me  
 - 🎓 Undergraduate in **Software Engineering** at **Birmingham City University**  
 - 📌 Founder of **[Drovit](https://drovit.com/)** – a creative technology company driving innovation  
@@ -13,6 +14,7 @@ I’m passionate about building impactful digital solutions that blend creativit
   - IoT & AI-driven applications
   - Digital Marketing & Branding
   - Graphic Design, Animations, 3D Modeling & Media Production
+
 
 ## 🔧 Tech Stack  
 
@@ -28,11 +30,13 @@ I’m passionate about building impactful digital solutions that blend creativit
 ### **Design & Media**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white) ![Substance 3D](https://img.shields.io/badge/Substance%203D-FF6C37?style=for-the-badge&logo=adobe&logoColor=white) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-47A141?style=for-the-badge&logo=coreldraw&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
 
+
 ## 📂 Featured Projects  
 - 🐾 **The Paws Shop System** – Pet supply store management system (Java + SQL)  
 - 🎮 **Game Store Android App** – Firebase-powered app with payments & notifications  
 - 🎵 **Pixzoll (Music Channel)** – Creative music production & YouTube content  
 - 🔔 **Distributed Online Auction System** – Built with EJB & JMS on Payara  
+
 
 ## 📫 Connect With Me  
 - 🌐 Website: [Drovit](https://drovit.com/)  
