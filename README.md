@@ -9,13 +9,10 @@ I’m passionate about building impactful digital solutions that blend creativit
 - 📌 Founder of **[Drovit](https://drovit.com/)** – a creative technology company driving innovation  
 - 🌱 Currently learning **UX Design, AI Automation, and IoT solutions**  
 - ⚡ Experience in:  
-  - Java, Python, JavaScript, SQL, Firebase  
-  - Web & Software Development  
-  - IoT & AI-driven applications  
-  - Digital Marketing & Branding  
-  - Graphic Design, 3D Modeling, and Media Production  
-
----
+  - Web & Software Development
+  - IoT & AI-driven applications
+  - Digital Marketing & Branding
+  - Graphic Design, Animations, 3D Modeling & Media Production
 
 ## 🔧 Tech Stack  
 
