@@ -23,6 +23,7 @@ I’m passionate about building impactful digital solutions that blend creativit
 
 ### **Frameworks & Tools**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Payara](https://img.shields.io/badge/Payara-FF6D00?style=for-the-badge&logo=payara&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
 
 ### **Development Environments**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
@@ -34,11 +35,10 @@ I’m passionate about building impactful digital solutions that blend creativit
 ## 📂 Featured Projects  
 - 🐾 **The Paws Shop System** – Pet supply store management system (Java + SQL)  
 - 🎮 **Game Store Android App** – Firebase-powered app with payments & notifications  
-- 🎵 **Pixzoll (Music Channel)** – Creative music production & YouTube content  
 - 🔔 **Distributed Online Auction System** – Built with EJB & JMS on Payara  
 
 ## 📊 GitHub Stats  
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanratnayake&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanratnayake&theme=tokyonight)
 
 ⭐ *"Passionate about blending technology and creativity to build solutions that inspire."*
