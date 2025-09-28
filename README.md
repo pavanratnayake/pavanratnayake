@@ -42,9 +42,9 @@ I’m passionate about building impactful digital solutions that blend creativit
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanratnayake&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanratnayake&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavanratnayake&theme=tokyonight)  
 
 
 ⭐ *"Passionate about blending technology and creativity to build solutions that inspire."*
