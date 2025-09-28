@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pavan Ratnayake
 
-💻 **Software Engineering Undergraduate | Creative Technologist | Founder of Drovit**  
+💻 **Software Engineering Undergraduate | Creative Technologist**  
 
 I’m passionate about building impactful digital solutions that blend creativity and technology. I started my career in the IT industry in 2019 and am currently an undergraduate software engineering student at BCU. I'm also the founder of Drovit, a creative and tech-driven company that provides AI automation, web, software, branding and marketing services, helping businesses grow and innovate in the digital era.
 
